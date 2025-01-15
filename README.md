@@ -4,7 +4,7 @@ This repository contains all home and lab assignments for the **CSE 204: Data St
 
 ## Course Overview
 
-**CSE 204** is a 0.75 credit hour sessional course intended for Level 2 Term 1 students. It serves as a practical extension of **CSE 203**, allowing students to apply theoretical concepts in real-world scenarios.
+**CSE 204** is a 1.5 credit hour sessional course intended for Level 2 Term 1 students. It serves as a practical extension of **CSE 203**, allowing students to apply theoretical concepts in real-world scenarios.
 
 ## Repository Structure
 
